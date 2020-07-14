@@ -1,4 +1,4 @@
-katz_deli = []
+  katz_deli = []
 #shows everyones current place in line
 #if no one in line: "The line is currently empty."
 def line(deli)
